@@ -110,6 +110,9 @@
   justify-content: space-between;
   gap: 20px;
 }
+.cad:hover{
+  transform: scale(1.01);
+}
 .card-img {
   width: 334px;
 }
@@ -283,6 +286,10 @@
   width: 80px;
   height: 40px;
 }
+.sen:hover{
+    background-color: rgb(224, 224, 203);
+  color: black;
+}
 .black{
   background-color: #000;
   color: #ffffff;
@@ -306,6 +313,9 @@
 .row{
   flex-direction: column;
   color: #787878;
+}
+.roo:hover{
+  color: #ffffff;
 }
 .rr{
   color: #787878;
